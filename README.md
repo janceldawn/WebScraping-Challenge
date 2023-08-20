@@ -22,8 +22,8 @@
 
     # code
     # How many terrestrial (earth) days are there in a Martian year?
-    mars_df.min_temp.plot()
-    plt.xlabel('Number of terrestrial days')
-    plt.ylabel('Minimum temperature')
-    plt.show()
+      mars_df.min_temp.plot()
+      plt.xlabel('Number of terrestrial days')
+      plt.ylabel('Minimum temperature')
+      plt.show()
     
